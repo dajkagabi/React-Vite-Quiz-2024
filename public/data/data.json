@@ -1,0 +1,107 @@
+[
+  {
+      "question": "A React egy front-end JavaScript könyvtár.",
+      "answers": ["Igaz", "Hamis"],
+      "correct": "Igaz"
+  },
+  {
+      "question": "A JSX a JavaScript XML rövidítése.",
+      "answers": ["Igaz", "Hamis"],
+      "correct": "Igaz"
+  },
+  {
+      "question": "A React komponensek osztályalapúak és funkcionálisak lehetnek.",
+      "answers": ["Igaz", "Hamis"],
+      "correct": "Igaz"
+  },
+  {
+      "question": "A React a DOM-ot közvetlenül manipulálja.",
+      "answers": ["Igaz", "Hamis"],
+      "correct": "Hamis"
+  },
+  {
+      "question": "A React Hook-ok használata előtt nem használhatunk állapotot funkcionális komponensekben.",
+      "answers": ["Igaz", "Hamis"],
+      "correct": "Igaz"
+  },
+  {
+      "question": "A useState Hook lehetővé teszi számunkra, hogy állapotot tároljunk funkcionális komponensekben.",
+      "answers": ["Igaz", "Hamis"],
+      "correct": "Igaz"
+  },
+  {
+      "question": "A props az adatok átadására szolgál a gyermek komponensekbe.",
+      "answers": ["Igaz", "Hamis"],
+      "correct": "Igaz"
+  },
+  {
+      "question": "A React Router használatával egyszerűbbé válik az útvonalkezelés a React alkalmazásokban.",
+      "answers": ["Igaz", "Hamis"],
+      "correct": "Igaz"
+  },
+  {
+      "question": "A useEffect Hook csak egyszer fut le a komponens első renderelésekor.",
+      "answers": ["Igaz", "Hamis"],
+      "correct": "Hamis"
+  },
+  {
+      "question": "A React a virtuális DOM-ot használja a teljesítmény optimalizálása érdekében.",
+      "answers": ["Igaz", "Hamis"],
+      "correct": "Igaz"
+  },
+  {
+      "question": "A Redux egy állapotkezelő könyvtár, amelyet a React-tel is használhatunk.",
+      "answers": ["Igaz", "Hamis"],
+      "correct": "Igaz"
+  },
+  {
+      "question": "A React komponenseket nem lehet újra felhasználni.",
+      "answers": ["Igaz", "Hamis"],
+      "correct": "Hamis"
+  },
+  {
+      "question": "A useContext Hook lehetővé teszi a globális állapot kezelését.",
+      "answers": ["Igaz", "Hamis"],
+      "correct": "Igaz"
+  },
+  {
+      "question": "A React Fragments lehetővé teszi több elem visszaadását anélkül, hogy extra DOM elemet hoznánk létre.",
+      "answers": ["Igaz", "Hamis"],
+      "correct": "Igaz"
+  },
+  {
+      "question": "A React alkalmazásokban a CSS modulok segítségével könnyen stílusozhatunk komponenseket.",
+      "answers": ["Igaz", "Hamis"],
+      "correct": "Igaz"
+  },
+  {
+      "question": "A render() metódus kötelező a funkcionális komponensekben.",
+      "answers": ["Igaz", "Hamis"],
+      "correct": "Hamis"
+  },
+  {
+      "question": "A React alkalmazásokban az állapot változásait nem figyelhetjük meg.",
+      "answers": ["Igaz", "Hamis"],
+      "correct": "Hamis"
+  },
+  {
+      "question": "A useMemo Hook optimalizálja a teljesítményt azzal, hogy megjegyzi az eredményeket.",
+      "answers": ["Igaz", "Hamis"],
+      "correct": "Igaz"
+  },
+  {
+      "question": "A key prop segít a React-nak az elem frissítési folyamatának optimalizálásában.",
+      "answers": ["Igaz", "Hamis"],
+      "correct": "Igaz"
+  },
+  {
+      "question": "A useReducer Hook a Redux helyett is használható állapotkezeléshez.",
+      "answers": ["Igaz", "Hamis"],
+      "correct": "Igaz"
+  },
+  {
+      "question": "A React alkalmazásokban a hibák kezelésére nem használhatunk try/catch blokkokat.",
+      "answers": ["Igaz", "Hamis"],
+      "correct": "Hamis"
+  }
+]
