@@ -5,6 +5,7 @@ React és Vite alapú kvízalkalmazás.
 ## Projekt inicializálás:
 
 Projekt létrehozása:
+
 ``` npm create vite@latest```
 
 Függőségek telepítése:
